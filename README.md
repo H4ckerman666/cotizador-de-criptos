@@ -17,7 +17,6 @@ Check the cost of your cryptocurrencies, selecting your crypto currency and your
 - React
 - React Hooks
 - CSS
-- Apex Charts
 - Vite
 - HTML5
 - JavaScript
