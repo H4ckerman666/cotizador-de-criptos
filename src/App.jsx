@@ -29,7 +29,7 @@ const Image = styled.img`
   display: block;
 `;
 const Container = styled.div`
-  max-width: 900px;
+  max-width: 960px;
   margin: 0 auto;
   width: 90%;
   @media (min-width: 992px) {
