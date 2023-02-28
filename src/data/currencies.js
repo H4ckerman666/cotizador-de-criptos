@@ -1,7 +1,7 @@
 const currencies = [
   {
     id: "USD",
-    name: "US Dollarper",
+    name: "US Dollar",
   },
   {
     id: "MXN",
